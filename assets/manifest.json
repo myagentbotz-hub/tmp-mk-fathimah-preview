@@ -1,0 +1,77 @@
+{
+  "picks": [
+    {
+      "pick": 1,
+      "src": "photo_7.jpg",
+      "dest": "1.jpg",
+      "width": 1600,
+      "height": 900,
+      "aspect_ratio": 1.778,
+      "recommended_use": "hero"
+    },
+    {
+      "pick": 2,
+      "src": "photo_10.jpg",
+      "dest": "2.jpg",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.333,
+      "recommended_use": "above-fold"
+    },
+    {
+      "pick": 3,
+      "src": "photo_3.jpg",
+      "dest": "3.jpg",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.333,
+      "recommended_use": "section-image"
+    },
+    {
+      "pick": 4,
+      "src": "photo_1.jpg",
+      "dest": "4.jpg",
+      "width": 1600,
+      "height": 1205,
+      "aspect_ratio": 1.328,
+      "recommended_use": "section-image"
+    },
+    {
+      "pick": 5,
+      "src": "photo_9.jpg",
+      "dest": "5.jpg",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.333,
+      "recommended_use": "section-image"
+    },
+    {
+      "pick": 6,
+      "src": "photo_4.jpg",
+      "dest": "6.jpg",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.333,
+      "recommended_use": "section-image"
+    },
+    {
+      "pick": 7,
+      "src": "photo_5.jpg",
+      "dest": "7.jpg",
+      "width": 1600,
+      "height": 2844,
+      "aspect_ratio": 0.563,
+      "recommended_use": "gallery-tile-portrait"
+    },
+    {
+      "pick": 8,
+      "src": "photo_8.jpg",
+      "dest": "8.jpg",
+      "width": 1600,
+      "height": 2133,
+      "aspect_ratio": 0.75,
+      "recommended_use": "gallery-tile-portrait"
+    }
+  ],
+  "dropped_count": 2
+}
